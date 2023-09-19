@@ -36,7 +36,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -207,10 +207,10 @@ hr{
     padding: 18px 30px;
 }
 input{
-    40px
+    font-weight: 40px;
 }
 footer{
     text-align: center;
     margin-top: -10px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
